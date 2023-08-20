@@ -61,8 +61,8 @@ The project follows a standard React application structure:
     ├── README.md
     └── ...
 
-- **src/components/**: Contains React components, including the **Pizza** component.
-- **src/App.js**: The main application component.
+- **src/index.js/**: The main application component.
+- **src/index.css**: The main styling sheet.
 - **public/**: Contains the HTML template and other public assets.
 
 
