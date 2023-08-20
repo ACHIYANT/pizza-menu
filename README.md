@@ -52,14 +52,12 @@ This will launch the Pizza Menu app in your default web browser. You can explore
 The project follows a standard React application structure:
 
     pizza-menu/
-    ├── src/
-    │   ├── components/
-    │   │   ├── Pizza.js
-    │   │   └── ...
-    │   ├── App.js
-    │   ├── index.js
-    │   └── ...
     ├── public/
+    │   ├── index.html
+    │   ├── ...
+    ├── src/
+    │   ├── index.js
+    │   └── index.css
     ├── README.md
     └── ...
 
