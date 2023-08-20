@@ -43,7 +43,6 @@ To run this project locally, follow these steps:
 
 Once you've installed the project and its dependencies, you can start the development server with the following command:
 
-    ```shell
     npm start
 
 This will launch the Pizza Menu app in your default web browser. You can explore the menu and see how components, JSX, and props work together to create a interface.
